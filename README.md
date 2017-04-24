@@ -1,4 +1,4 @@
-# Scene Classifiction using Unsupervised Learning
+# Scene Classification using Unsupervised Learning
 
 >*NOTE: Data is NOT included in this repository.
 
