@@ -15,7 +15,7 @@ This notebook contains a method for classifying keyframes from camera feeds usin
 * matplotlib 1.5.2
 
 ## Goals
-The goal is to classify a directory of keyframes (images) according to unique "scene"- each scene having its own tilt, zoom, pan etc.
+This repository demonstrates a novel solution to classify a directory of keyframes (images) from a PTZ camera according to unique "scene" through unsupervised learning techniques.
 
 ## Key Processes
 1. Classify directory of scenes
@@ -50,3 +50,9 @@ The goal is to classify a directory of keyframes (images) according to unique "s
 File | Purpose
 ------------ | -------------
 sceneclustering.ipynb |	iPython Notebook for clustering routine.
+
+## Getting up and running
+
+While in the `sceneclustering` directory, enter the following in the command line:
+
+> ipython notebook sceneclustering.ipynb
